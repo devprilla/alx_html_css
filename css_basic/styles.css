@@ -9,6 +9,8 @@ main {
 }
 article {
     flex: 2;
+    color: blue;
+    background-color: brown;
 }
 aside {
     flex: 1;
