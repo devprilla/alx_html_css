@@ -63,3 +63,477 @@ text-align: center;
 background: #FFFFFF;
 
 }
+part_1_testimonials {
+    width: 1440;
+height: 392;
+top: 1093px;
+left: -1px;
+.testimonial {
+    width: 943;
+height: 160;
+top: 1201px;
+left: 259px;
+
+}
+.background {
+    width: 1440;
+height: 392;
+top: 1093px;
+left: -1px;
+
+}
+}
+
+part_2_tutorials {
+    position: absolute;
+width: 1228px;
+height: 450px;
+left: 106px;
+top: 1572px;
+}
+part_3_free_membership {
+    position: absolute;
+width: 1440px;
+height: 502px;
+left: 0px;
+top: 2109px
+.background {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+}
+}
+Free membership {
+position: absolute;
+height: 40px;
+left: 42.85%;
+right: 40.9%;
+top: calc(50% - 40px/2 - 161px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+color: #C271FF;
+}
+button {
+position: absolute;
+left: 44.38%
+;
+right: 44.38%;
+top: 80.88%;
+bottom: 10.36%;
+
+filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
+}
+.button_background {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #C271FF;
+border-radius: 22px;
+}
+REGISTER FOR FREE {
+position: absolute;
+height: 18px;
+left: 13.27%;
+right: 12.04%;
+top: calc(50% - 18px/2);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+}
+
+
+.identical to box height {
+text-align: center;
+
+color: #FFFFFF;
+
+}
+dot_1  {
+position: absolute;
+left: 11.39%;
+right: 70.76%;
+top: 33.47%;
+bottom: 36.06%;
+}
+Lorem ipsum dolor si {
+osition: absolute;
+height: 52px;
+left: 8.75%;
+right: 8.75%;
+top: calc(50% - 52px/2 + 50.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+
+
+/* Lorem ipsum */
+
+position: absolute;
+height: 26px;
+left: 0.19%;
+right: 0.19%;
+top: calc(50% - 26px/2 - 1.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* smile */
+
+position: absolute;
+width: 43.67px;
+height: 35.35px;
+left: 106.71px;
+top: 0.03px;
+
+
+
+/* Path */
+
+position: absolute;
+left: 43.58%;
+right: 52.75%;
+top: 0.02%;
+bottom: 90.69%;
+
+background: #C271FF;
+
+
+/* Path */
+
+position: absolute;
+left: 52.32%;
+right: 44.01%;
+top: 0.02%;
+bottom: 90.69%;
+
+background: #C271FF;
+
+
+/* Path */
+
+position: absolute;
+left: 41.52%;
+right: 41.87%;
+top: 16.22%;
+bottom: 76.82%;
+
+background: #C271FF;
+transform: rotate(-7deg);
+
+
+/* dot_2 */
+
+position: absolute;
+left: 31.11%;
+right: 51.04%;
+top: 33.47%;
+bottom: 36.06%;
+
+
+
+/* Lorem ipsum dolor si */
+
+position: absolute;
+height: 52px;
+left: 7%;
+right: 7%;
+top: calc(50% - 52px/2 + 50.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* or 186% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum */
+
+position: absolute;
+height: 26px;
+left: 0.19%;
+right: 0.19%;
+top: calc(50% - 26px/2 - 1.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* smile */
+
+position: absolute;
+width: 43.67px;
+height: 35.35px;
+left: 106.71px;
+top: 0.03px;
+
+
+
+/* Path */
+
+position: absolute;
+left: 43.58%;
+right: 52.75%;
+top: 0.02%;
+bottom: 90.69%;
+
+background: #C271FF;
+
+
+/* Path */
+
+position: absolute;
+left: 52.32%;
+right: 44.01%;
+top: 0.02%;
+bottom: 90.69%;
+
+background: #C271FF;
+
+
+/* Path */
+
+position: absolute;
+left: 41.52%;
+right: 41.87%;
+top: 16.22%;
+bottom: 76.82%;
+
+background: #C271FF;
+transform: rotate(-7deg);
+
+
+/* dot_3 */
+
+position: absolute;
+left: 50.9%;
+right: 31.25%;
+top: 33.47%;
+bottom: 36.06%;
+
+
+
+/* Lorem ipsum dolor si */
+
+position: absolute;
+height: 52px;
+left: 8.17%;
+right: 8.17%;
+top: calc(50% - 52px/2 + 50.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* or 186% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum */
+
+position: absolute;
+height: 26px;
+left: 0.19%;
+right: 0.19%;
+top: calc(50% - 26px/2 - 1.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* smile */
+
+position: absolute;
+width: 43.67px;
+height: 35.35px;
+left: 106.71px;
+top: 0.03px;
+
+
+
+/* Path */
+
+position: absolute;
+left: 43.58%;
+right: 52.75%;
+top: 0.02%;
+bottom: 90.69%;
+
+background: #C271FF;
+
+
+/* Path */
+
+position: absolute;
+left: 52.32%;
+right: 44.01%;
+top: 0.02%;
+bottom: 90.69%;
+
+background: #C271FF;
+
+
+/* Path */
+
+position: absolute;
+left: 41.52%;
+right: 41.87%;
+top: 16.22%;
+bottom: 76.82%;
+
+background: #C271FF;
+transform: rotate(-7deg);
+
+
+/* dot_4 */
+
+position: absolute;
+left: 70.76%;
+right: 11.39%;
+top: 33.47%;
+bottom: 36.06%;
+
+
+
+/* Lorem ipsum dolor si */
+
+position: absolute;
+height: 52px;
+left: 8.17%;
+right: 8.17%;
+top: calc(50% - 52px/2 + 50.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* or 186% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum */
+
+position: absolute;
+height: 26px;
+left: 0.19%;
+right: 0.19%;
+top: calc(50% - 26px/2 - 1.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* smile */
+
+position: absolute;
+width: 43.67px;
+height: 35.35px;
+left: 106.71px;
+top: 0.03px;
+
+
+
+/* Path */
+
+position: absolute;
+left: 43.58%;
+right: 52.75%;
+top: 0.02%;
+bottom: 90.69%;
+
+background: #C271FF;
+
+
+/* Path */
+
+position: absolute;
+left: 52.32%;
+right: 44.01%;
+top: 0.02%;
+bottom: 90.69%;
+
+background: #C271FF;
+
+
+/* Path */
+
+position: absolute;
+left: 41.52%;
+right: 41.87%;
+top: 16.22%;
+bottom: 76.82%;
+
+background: #C271FF;
+transform: rotate(-7deg);
+
+
+
+
