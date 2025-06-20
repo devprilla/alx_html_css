@@ -1,17 +1,21 @@
-body {
-    display: flex;
-    flex-direction: column;
+header {
+position: relative;
+width: 1103.41px;
+height: 29.46px;
+left: 171.59px;
+top: 35.02px;
 }
-main {
-    display: flex;
-    flex-direction: row;
-    flex: auto;
+header nav ul {
+position: relative;
+width: 234px;
+height: 15px;
+left: 1041px;
+top: 37px;
 }
-article {
-    flex: 2;
-    color: blue;
-    background-color: brown;
-}
-aside {
-    flex: 1;
+header nav img {   
+position: relative;
+width: 167.02px;
+height: 29.46px;
+left: 171.59px;
+top: 35.02px;
 }
